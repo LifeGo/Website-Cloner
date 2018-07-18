@@ -1,5 +1,6 @@
 #### Usage
 `python3 app.py http://example.com yourSite.com`
+`./app.py https://dietpi.com ioio`
 this will create a dir at *../app.py*
 
 Requirements:
